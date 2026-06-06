@@ -1,0 +1,13 @@
+pandas
+numpy
+streamlit
+plotly
+folium
+streamlit-folium
+requests
+pyarrow
+duckdb
+python-dotenv
+openai
+pytest
+playwright

@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-06-06T20:33:18+08:00",
+  "base_url": "http://localhost:8501",
+  "screenshot_count": 6,
+  "screenshots": [
+    {
+      "page": "Home / Start",
+      "title": "Dashboard Home / Start",
+      "purpose": "Data status, recommended tasks, deliverables.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\01_home_start.png",
+      "size_bytes": 291375
+    },
+    {
+      "page": "Portfolio Overview",
+      "title": "Portfolio Overview",
+      "purpose": "Portfolio age, usage, and risk structure.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\02_portfolio_overview.png",
+      "size_bytes": 200632
+    },
+    {
+      "page": "Spatial Dashboard",
+      "title": "Spatial Dashboard",
+      "purpose": "District choropleth, point layers, and map display status.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\03_spatial_dashboard.png",
+      "size_bytes": 467611
+    },
+    {
+      "page": "District Benchmark",
+      "title": "District Benchmark",
+      "purpose": "District priority ranking and selected district metrics.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\04_district_benchmark.png",
+      "size_bytes": 210904
+    },
+    {
+      "page": "AI Report Studio",
+      "title": "AI Report Studio",
+      "purpose": "Report scope check and generation controls.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\05_ai_report_studio.png",
+      "size_bytes": 185902
+    },
+    {
+      "page": "Method & QA",
+      "title": "Method & QA",
+      "purpose": "Method audit, quality snapshot, and export package controls.",
+      "path": "D:\\AI+arch＋hku\\香港建筑资产年龄数据分析与 AI 风险摘要生成\\outputs\\screenshots\\06_method_qa.png",
+      "size_bytes": 206627
+    }
+  ]
+}
